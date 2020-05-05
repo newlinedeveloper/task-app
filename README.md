@@ -1,4 +1,4 @@
-# Task application
+# Task application (React js)
 
 ## How to run Task application in our local system
 
