@@ -4,11 +4,15 @@
 
  ### Clone the repository
  
+ * https://github.com/newlinedeveloper/task-app.git 
+ 
  ### Change the directory
- cd task-app
+ 
+  * cd task-app
  
  ### Install node module packages
- npm install
+ 
+  * npm install
  
  ### Run the server
  
